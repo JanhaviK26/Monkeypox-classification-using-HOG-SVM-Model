@@ -13,3 +13,4 @@ an F1 score of 0.95, a precision of 0.93, and a recall of 0.97. Our newly develo
 model will be highly beneficial in the medical field, particularly for countries with large
 populations such as China, India, and the United States, for the detection of Monkeypox
 on a mass scale.
+<img width="586" height="262" alt="image" src="https://github.com/user-attachments/assets/9aa1c974-d649-4eaf-a29b-98caac002e4e" />
